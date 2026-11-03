@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.venv/
+models/
+*.pt
+*.onnx
+*.mp4
+70101_3_spec.pdf

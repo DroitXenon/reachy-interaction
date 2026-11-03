@@ -1,0 +1,6 @@
+reachy-mini[mujoco]==1.13.0
+mediapipe==1.2.0
+ultralytics==8.4.199
+opencv-python==5.0.0.93
+numpy==2.5.4
+pytest==9.2.0
